@@ -82,5 +82,3 @@ Where indicated, hourly data (then interpolated) from the nearest airport weathe
 1. Linear regression : 70.43 %
 
 2. Random Forest regressor: 82.49 %
-
-### Author:Tulsee Bisen
