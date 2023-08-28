@@ -112,5 +112,13 @@ st.write(df.head(10))
 ![image](https://github.com/kaushik-prasad-dey/Data_science_Machine_Learning_Projects/assets/109330283/0e1905c5-643d-4945-af5c-e070f17b5fec)
 ![image](https://github.com/kaushik-prasad-dey/Data_science_Machine_Learning_Projects/assets/109330283/37f2ca58-8e1d-40b5-a5b8-022ff0c200f0)
 
+##### Python libraries used
+
+![image](https://github.com/kaushik-prasad-dey/Data_science_Machine_Learning_Projects/assets/109330283/c3a92160-4fb6-4aa5-8eed-a74b40ec1db2)
+
+![image](https://github.com/kaushik-prasad-dey/Data_science_Machine_Learning_Projects/assets/109330283/2d54175b-272f-4079-a1d1-5c4986c92000)
+
+
+
 
 
