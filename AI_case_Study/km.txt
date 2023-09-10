@@ -1,0 +1,67 @@
+Build a resume for me in Latex - using a fancy colorful template.
+
+My name is kaushik Prasad Dey. PG certificate in Data Science from IIM Nagpur -Completed 2022. 
+i have 12 years of overall experience and 3.5 years in data science industry experience.
+i have the skills on 
+Data Science, AI, Machine Learning, Deep Learning, NLP (sentimental score, bag of words, TFIDF,Lemitization and tokenization) and Computer Vision.i have 3 years of Data Analytics
+domain experience with PWC India. Currently looking for AI related Job. I have knowledge in 
+Generative AI, Stable Diffussion Model, Mointoring model performance with Evidently AI. Apart
+from that i have experience in low code and no code platform like Aws Sage-Maker, Azure MLops. 
+i had also good knowledge in ChatGPT including Social Media Marketing with chatGPT, Video creation with Other AI and ChatGPT,
+Linkedin profile and artcile writing with ChatGPT, How chatGPT is beneficial in Project Management, using chatGPT for meeting agendas and minutes.
+I am always keen to learn new technology and upgrade my knowledge in various leading platform like dataCamp, Analytics vidya and others and applied
+my skil set in my current organization. I am well versed in educational domain and how generative AI can provide the solutions
+like personalized coaching, content creation, Language learning, text sumarization, assement and grading.
+I have also hands on in python, sciket-learn, Ml algorithms, seaborn, numpy, pandas, google data studio, tableau and many more. currently looking for job change in AI industry.
+
+Fill in the gaps you may find in the script appropriatly and create the resume focused on AI. i need a fancy colorful Latex template.
+Hierarchical 
+
+=======STATS PROBLEM STATEMENT===========================
+In india the average IQ is 100, with a standard deviation
+of 15. what is the percentage of population would you expect to have
+an IQ lower than 85 ?
+
+ X is the IQ score (85)
+ mean IQ (100)
+ standard deviation is (15)
+ so X=85, mean=100 and SD=15
+ so the formula is:
+ Z= 85-100/15=-15/15=-1
+ z-score table -1 is : .1587
+ now if we make its percentage : .1587*100=15.87%
+ 8123367839
+ 
+ 
+1. give me some details about zomato gold.
+2. give me a 10 page presentation on zomato gold.
+3. act as a marketing professional in swiggy.Your boss at swiggy has asked you
+to create 10 page presentation on zomaato gold (zomaato gold was launched by zomato just
+last week and it has been a super hit in the market), your boss needs to discuss about 
+zomato gold and its implication on swiggy's business.
+
+4. act as a speech coach. give me the exact script that i should be following in 
+order to deliver the above presentation.
+5. give me agreement 
+6. make a jingle for chameli tel in hindi.
+7.
+
+
+===== Tools to be used ===========
+1.  https://chat.openai.com/ [for better prompt]
+2.  https://gamma.app/ [Presentation in gamma ]
+3.  https://12ft.io/
+4.  https://sci-hub.se/
+5.  https://chrome.google.com/webstore/detail/chat-with-merlin-ai-assis/camppjleccjaphfdbohjdohecfnoikec
+6.  https://playgroundai.com/
+7.  https://app.yoodli.ai/
+8.  https://bard.google.com/
+9.  https://debugcode.ai/
+10. https://formula.dog/
+11. https://www.signalhire.com/
+12. 
+===============================
+Aditya Goenka: 
+Those who are Still facing Payment issues can use below link for the payment Alternative payment links (if the previous link is not working for you): https://rzp.io/l/mas-ai https://www.instamojo.com/@be10xtoday/
+Aditya Goenka: 
+It's here! Join the Certified AI Tools Mastery Program with us Note: Bonuses Only For First 50 action takers Full payment link: https://rzp.io/l/chatgpt-ai-mastery-otf No cost installment link: https://rzp.io/l/chatgpt-ai-mastery-ncf Trust me, You don't want to miss this
